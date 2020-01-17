@@ -5,7 +5,7 @@ Nothing extravagant, but here is the first small project I wrote on Python by my
 Make sure you have Python 3 installed on your computer. <br />
 Download the file and plug it into your editor. <br />
 At the beginning of the code, there will be a board variable, which is an array of arrays representing a sudoku board. <br />
-Input a starter boarde of your choice and run the program to see the completed puzzle! <br />
+Input a valid starter board of your choice and run the program to see the completed puzzle! <br />
 
 ### Improvements?
 I am currently working to make a GUI for the sudoku solver using Pygames. <br />
